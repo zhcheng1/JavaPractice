@@ -1,0 +1,9 @@
+// a++ and ++a difference
+class Demo2{
+	public static void main(String[] args){
+		int x = 4, b, c;
+		b = x ++;
+		c = ++ x;
+		System.out.println(x+" "+b+" "+c);
+	}
+}
