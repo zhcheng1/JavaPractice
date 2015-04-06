@@ -1,4 +1,4 @@
-//selection sort; pop sort
+//selection sort; pop sort; Array.sort(arr)
 
 class sort1
 {
